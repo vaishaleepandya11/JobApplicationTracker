@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JobApplicationTracker.Presentation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7181",
+      "launchBrowser": false
+    }
+  }
+}

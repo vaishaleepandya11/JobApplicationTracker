@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JobApplicationTracker.Application/JobApplicationTracker.Application.csproj" Id="f9c3bd69-ff1d-4d62-b6da-815a2fe144f9" />
+  <Project Path="JobApplicationTracker.Domain/JobApplicationTracker.Domain.csproj" Id="7999a89c-6824-4b58-9415-b0cea1a4cdfb" />
+  <Project Path="JobApplicationTracker.Infrastructure/JobApplicationTracker.Infrastructure.csproj" Id="54f157a9-7715-49d6-890d-7712cbfa36cd" />
+  <Project Path="JobApplicationTracker.Presentation/JobApplicationTracker.Presentation.csproj" Id="2bd031c5-faeb-440c-8eca-911ec9262ba5" />
+</Solution>
